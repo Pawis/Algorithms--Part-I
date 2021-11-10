@@ -1,5 +1,5 @@
 # Algorithms--Part-I
-Moje rozwiazania kursu ["Algorithms, Part I"](https://www.coursera.org/learn/algorithms-part1) z Princeton University
+Moje rozwiazania zadan z kursu ["Algorithms, Part I"](https://www.coursera.org/learn/algorithms-part1) od Princeton University
 
 Percolation -- Zaliczone na 86%, TODO: Rozwiazac backwash problem.
 <br/> Deques and Randomized Queues -- Zaliczone na 99%.
